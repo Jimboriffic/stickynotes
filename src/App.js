@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
+import './index.css';
 import NotesPage from './pages/notesPages';
 
 function App() {
